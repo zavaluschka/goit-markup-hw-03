@@ -232,7 +232,7 @@ padding-bottom: 120px;
     display: block;
     width: 360px;
     height: 300px;
-    width:calc((100% - 48px) / 3);
+    width: calc((100% - 48px) / 3);
 }
 .about-title {
 font-size: 36px;
